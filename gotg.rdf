@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:xy="http://www.mcu.fake/siteinfo#"
+        xml:base="http://www.mcu.fake/siteinfo/gotg">
+    
+    <xy:Human rdf:ID="Quill">
+        <xy:name>Quill</xy:name>
+        <xy:alias>Star-Lord</xy:alias>
+        <xy:age>34</xy:age>
+        <xy:gender>Male</xy:gender>
+        <xy:birthplace>Terra</xy:birthplace>
+        <xy:species>Human-Celestial Hybrid</xy:species>
+        <xy:abilities>
+            <rdf:Bag>
+                <rdf:li>Combat</rdf:li>
+                <rdf:li>Cosmic Energy Manipulation</rdf:li>
+                <rdf:li>Molecular Manipulation</rdf:li>
+            </rdf:Bag>
+        </xy:abilities>
+        <xy:bounty>40,000 units</xy:bounty>
+        <xy:role>Leader</xy:role>
+        <xy:occupation>
+            <rdf:Bag>
+                <rdf:li>Guardian of the Galaxy</rdf:li>
+                <rdf:li>Ravager</rdf:li>
+            </rdf:Bag>
+        </xy:occupation>
+    </xy:Human>
+    
+    <xy:Alien rdf:ID="Gamora">
+        <xy:name>Gamora</xy:name>
+        <xy:alias>Requiem</xy:alias>
+        <xy:age>35</xy:age>
+        <xy:gender>Female</xy:gender>
+        <xy:birthplace>Zen-Whoberi</xy:birthplace>
+        <xy:species>Zehoberei</xy:species>
+        <xy:abilities>
+            <rdf:Bag>
+                <rdf:li>Super Strength</rdf:li>
+                <rdf:li>Agility</rdf:li>
+                <rdf:li>Accelerated Healing</rdf:li>
+            </rdf:Bag>
+        </xy:abilities>
+        <xy:role>Member</xy:role>
+        <xy:occupation>
+            <rdf:Bag>
+                <rdf:li>Guardian of the Galaxy</rdf:li>
+                <rdf:li>Assassin</rdf:li>
+                <rdf:li>Ravager</rdf:li>
+            </rdf:Bag>
+        </xy:occupation>
+    </xy:Alien>
+    
+    <xy:Alien rdf:ID="Drax">
+        <xy:name>Drax</xy:name>
+        <xy:alias>The Destroyer</xy:alias>
+        <xy:age>54</xy:age>
+        <xy:gender>Male</xy:gender>
+        <xy:birthplace>Kylos</xy:birthplace>
+        <xy:species>Kylosian</xy:species>
+        <xy:abilities>
+            <rdf:Bag>
+                <rdf:li>Super Strength</rdf:li>
+                <rdf:li>Agility</rdf:li>
+                <rdf:li>Durability</rdf:li>
+                <rdf:li>Bilingual</rdf:li>
+            </rdf:Bag>
+        </xy:abilities>
+        <xy:role>Member</xy:role>
+        <xy:occupation>
+            <rdf:Bag>
+                <rdf:li>Guardian of the Galaxy</rdf:li>
+                <rdf:li>Mercenary</rdf:li>
+            </rdf:Bag>
+        </xy:occupation>
+    </xy:Alien>
+    
+    <xy:Alien rdf:ID="Mantis">
+        <xy:name>Mantis</xy:name>
+        <xy:alias>Celestial Madonna</xy:alias>
+        <xy:age>37</xy:age>
+        <xy:gender>Female</xy:gender>
+        <xy:birthplace>The Living Planet Ego</xy:birthplace>
+        <xy:species>Insectoid-Celestial Hybrid</xy:species>
+        <xy:abilities>
+            <rdf:Bag>
+                <rdf:li>Empath</rdf:li>
+                <rdf:li>Pathokinesis</rdf:li>
+                <rdf:li>Mind Control</rdf:li>
+                <rdf:li>Hypnosis</rdf:li>
+            </rdf:Bag>
+        </xy:abilities>
+        <xy:role>Member</xy:role>
+        <xy:occupation>Guardian of the Galaxy</xy:occupation>
+    </xy:Alien>
+    
+    <xy:Alien rdf:ID="Nebula">
+        <xy:name>Nebula</xy:name>
+        <xy:alias>Daughter of Thanos</xy:alias>
+        <xy:age>30</xy:age>
+        <xy:gender>Female</xy:gender>
+        <xy:birthplace>Luphom</xy:birthplace>
+        <xy:species>Luphomoid</xy:species>
+        <xy:abilities>
+            <rdf:Bag>
+                <rdf:li>Cyborg</rdf:li>
+                <rdf:li>Technopath</rdf:li>
+                <rdf:li>Combat</rdf:li>
+                <rdf:li>Self-Regeneration</rdf:li>
+            </rdf:Bag>
+        </xy:abilities>
+        <xy:role>Member</xy:role>
+        <xy:occupation>
+            <rdf:Bag>
+                <rdf:li>Guardian of the Galaxy</rdf:li>
+                <rdf:li>Assassin</rdf:li>
+            </rdf:Bag>
+        </xy:occupation>
+    </xy:Alien>
+    
+    <xy:Animal rdf:ID="Rocket">
+        <xy:name>Rocket</xy:name>
+        <xy:alias>Subject 89P13</xy:alias>
+        <xy:age>13</xy:age>
+        <xy:gender>Male</xy:gender>
+        <xy:birthplace>Halfworld</xy:birthplace>
+        <xy:species>Raccoon Mutant</xy:species>
+        <xy:abilities>
+            <rdf:Bag>
+                <rdf:li>Cyborg</rdf:li>
+                <rdf:li>High IQ</rdf:li>
+                <rdf:li>Enhanced Strength</rdf:li>
+                <rdf:li>Agility</rdf:li>
+                <rdf:li>Combat</rdf:li>
+            </rdf:Bag>
+        </xy:abilities>
+        <xy:role>Leading Successor</xy:role>
+        <xy:occupation>
+            <rdf:Bag>
+                <rdf:li>Guardian of the Galaxy</rdf:li>
+                <rdf:li>Bounty Hunter</rdf:li>
+                <rdf:li>Engineer</rdf:li>
+                <rdf:li>Demolitions Expert</rdf:li>
+                <rdf:li>Starship Pilot</rdf:li>
+            </rdf:Bag>
+        </xy:occupation>
+    </xy:Animal>
+    
+    <xy:Plant rdf:ID="Groot">
+        <xy:name>Groot</xy:name>
+        <xy:alias>Seed of Slaughter</xy:alias>
+        <xy:age>19</xy:age>
+        <xy:gender>Male</xy:gender>
+        <xy:birthplace>Planet X</xy:birthplace>
+        <xy:species>Flora colossus</xy:species>
+        <xy:abilities>
+            <rdf:Bag>
+                <rdf:li>Chlorokinesis</rdf:li>
+                <rdf:li>Self-Regeneration</rdf:li>
+                <rdf:li>Rapid Growth</rdf:li>
+                <rdf:li>Combat</rdf:li>
+            </rdf:Bag>
+        </xy:abilities>
+        <xy:role>Member</xy:role>
+        <xy:occupation>
+            <rdf:Bag>
+                <rdf:li>Guardian of the Galaxy</rdf:li>
+                <rdf:li>Bounty Hunter</rdf:li>
+                <rdf:li>Mercenary</rdf:li>
+                <rdf:li>Monarch</rdf:li>
+            </rdf:Bag>
+        </xy:occupation>
+        <xy:catchphrase>I am Groot.</xy:catchphrase>
+    </xy:Plant>
+    
+</rdf:RDF>
