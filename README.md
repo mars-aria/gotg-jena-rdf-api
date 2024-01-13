@@ -1,1 +1,1 @@
-# jena-rdf-api-tutorial
+# Jena RDF API Tutorial
