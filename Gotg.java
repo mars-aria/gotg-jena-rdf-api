@@ -4,7 +4,8 @@ import org.apache.jena.rdf.model.*;
 import org.apache.jena.riot.RDFDataMgr;
 
 public class Gotg extends Object {
-
+    
+    // input the correct file path on your local computer
     static final String inputFileName = "src/assignment1/gotg.rdf";
     static final String NS = "http://www.mcu.fake/siteinfo#";
 
