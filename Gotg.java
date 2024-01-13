@@ -24,7 +24,7 @@ public class Gotg extends Object {
             RDFNode nameNode = resourceWithAlias.getProperty(model.getProperty(NS, "name")).getObject();
             
             // name a guardian of the galaxy
-            if ("Bill".equals(nameNode.toString())) {
+            if (" ".equals(nameNode.toString())) {
                 // get the value of the alias property
                 RDFNode aliasNode = resourceWithAlias.getProperty(model.getProperty(NS, "alias")).getObject();
                 
