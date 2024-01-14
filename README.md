@@ -3,4 +3,4 @@ An API (Application Programming Interface) that returns the alias of a chosen Ma
 
 How It Works (Demo): https://drive.google.com/file/d/1wEJBYJJw4DBWxLvZy8_wJBJLF1cC5Qls/view?resourcekey
 
-Graph Model Displayable via the W3C Validation Service website (https://www.w3.org/RDF/Validator/)
+RDF Graph Model Displayable via the W3C Validation Service website (https://www.w3.org/RDF/Validator/)
